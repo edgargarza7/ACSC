@@ -1,0 +1,101 @@
+Customer_ID,Purchase_Date,Product_Category,Amount_Spent,Quantity,Payment_Type
+CUST-0001,4/13/23,Groceries,324.49,5,Debit Card
+CUST-0002,12/15/23,Clothing,346.74,7,Online Payment
+CUST-0003,9/28/23,Clothing,274.85,1,Cash
+CUST-0004,4/17/23,Electronics,234.94,3,Debit Card
+CUST-0005,3/13/23,Clothing,285.39,2,Debit Card
+CUST-0006,7/8/23,Clothing,304.49,9,Cash
+CUST-0007,1/21/23,Electronics,58.81,6,Debit Card
+CUST-0008,4/13/23,Clothing,197.43,3,Online Payment
+CUST-0009,5/2/23,Sports,136.24,8,Credit Card
+CUST-0010,8/3/23,Furniture,405.51,8,Online Payment
+CUST-0011,11/27/23,Furniture,245.74,2,Credit Card
+CUST-0012,3/29/23,Electronics,492.04,6,Credit Card
+CUST-0013,4/10/23,Groceries,211.44,7,Online Payment
+CUST-0014,12/26/23,Electronics,411.89,2,Online Payment
+CUST-0015,6/1/23,Groceries,403.21,2,Online Payment
+CUST-0016,5/11/23,Furniture,92.34,1,Online Payment
+CUST-0017,5/30/23,Electronics,263.94,8,Cash
+CUST-0018,11/5/23,Sports,353.99,1,Debit Card
+CUST-0019,9/15/23,Clothing,432.01,9,Credit Card
+CUST-0020,12/10/23,Groceries,176.46,6,Online Payment
+CUST-0021,10/21/23,Clothing,125.72,7,Online Payment
+CUST-0022,7/11/23,Clothing,361.35,7,Online Payment
+CUST-0023,10/4/23,Electronics,408.56,3,Cash
+CUST-0024,6/10/23,Clothing,187.36,2,Online Payment
+CUST-0025,11/10/23,Sports,66.16,9,Online Payment
+CUST-0026,1/22/23,Clothing,471.45,8,Online Payment
+CUST-0027,9/10/23,Electronics,210.83,7,Debit Card
+CUST-0028,8/24/23,Sports,268.52,9,Cash
+CUST-0029,12/11/23,Furniture,422.1,4,Online Payment
+CUST-0030,2/18/23,Clothing,344.33,4,Credit Card
+CUST-0031,2/28/23,Electronics,372.9,1,Credit Card
+CUST-0032,6/19/23,Furniture,120.35,8,Credit Card
+CUST-0033,7/7/23,Furniture,279.9,3,Cash
+CUST-0034,9/28/23,Groceries,353.98,7,Cash
+CUST-0035,7/9/23,Sports,129.7,2,Credit Card
+CUST-0036,6/24/23,Clothing,103.98,2,Online Payment
+CUST-0037,2/20/23,Electronics,491.44,7,Cash
+CUST-0038,12/30/23,Groceries,267.99,6,Credit Card
+CUST-0039,2/24/23,Sports,145.2,3,Credit Card
+CUST-0040,9/1/23,Groceries,498.2,9,Online Payment
+CUST-0041,11/16/23,Sports,483.4,6,Debit Card
+CUST-0042,5/11/23,Sports,287.98,6,Cash
+CUST-0043,11/3/23,Clothing,443.67,1,Online Payment
+CUST-0044,5/15/23,Sports,110.58,4,Credit Card
+CUST-0045,1/21/23,Groceries,153.86,6,Credit Card
+CUST-0046,11/25/23,Sports,356.17,6,Online Payment
+CUST-0047,6/16/23,Clothing,426.4,5,Cash
+CUST-0048,10/1/23,Clothing,431.04,1,Debit Card
+CUST-0049,3/30/23,Groceries,214.16,8,Debit Card
+CUST-0050,11/12/23,Furniture,446.13,5,Credit Card
+CUST-0051,1/14/23,Furniture,428.45,5,Cash
+CUST-0052,8/30/23,Sports,469.1,7,Debit Card
+CUST-0053,9/22/23,Electronics,396.96,4,Cash
+CUST-0054,12/12/23,Sports,341.11,6,Cash
+CUST-0055,2/22/23,Groceries,298.73,4,Credit Card
+CUST-0056,12/6/23,Groceries,198.7,3,Debit Card
+CUST-0057,4/2/23,Groceries,471.26,7,Online Payment
+CUST-0058,9/21/23,Groceries,487.36,8,Credit Card
+CUST-0059,2/4/23,Groceries,156.28,4,Debit Card
+CUST-0060,7/25/23,Clothing,166.57,2,Debit Card
+CUST-0061,3/22/23,Furniture,253.09,3,Debit Card
+CUST-0062,2/19/23,Groceries,235.24,1,Debit Card
+CUST-0063,12/26/23,Electronics,497.34,8,Debit Card
+CUST-0064,1/2/23,Electronics,104.44,3,Cash
+CUST-0065,2/23/23,Electronics,28.68,7,Credit Card
+CUST-0066,4/16/23,Electronics,257.07,5,Cash
+CUST-0067,9/17/23,Clothing,105.83,5,Online Payment
+CUST-0068,11/6/23,Electronics,195.91,7,Debit Card
+CUST-0069,7/10/23,Groceries,377.2,9,Credit Card
+CUST-0070,8/6/23,Sports,366.05,5,Debit Card
+CUST-0071,2/13/23,Electronics,167.87,1,Credit Card
+CUST-0072,6/11/23,Clothing,280.42,1,Cash
+CUST-0073,7/21/23,Clothing,264.23,2,Credit Card
+CUST-0074,9/27/23,Electronics,325.44,6,Online Payment
+CUST-0075,12/17/23,Sports,140.22,9,Online Payment
+CUST-0076,10/31/23,Electronics,303.14,8,Credit Card
+CUST-0077,9/28/23,Clothing,489.87,5,Credit Card
+CUST-0078,8/3/23,Furniture,253.64,1,Credit Card
+CUST-0079,9/9/23,Groceries,454.93,7,Credit Card
+CUST-0080,7/9/23,Clothing,228.51,5,Online Payment
+CUST-0081,10/23/23,Electronics,188.04,6,Debit Card
+CUST-0082,8/1/23,Groceries,329.65,7,Credit Card
+CUST-0083,7/27/23,Electronics,341.08,3,Credit Card
+CUST-0084,8/25/23,Electronics,434.8,3,Online Payment
+CUST-0085,12/4/23,Furniture,130.49,5,Online Payment
+CUST-0086,2/22/23,Groceries,259.61,6,Cash
+CUST-0087,10/7/23,Groceries,294.56,9,Credit Card
+CUST-0088,8/5/23,Furniture,388.91,5,Cash
+CUST-0089,9/9/23,Clothing,40.93,1,Online Payment
+CUST-0090,7/7/23,Electronics,497.38,4,Online Payment
+CUST-0091,2/10/23,Sports,245.57,5,Debit Card
+CUST-0092,6/6/23,Electronics,154.19,5,Credit Card
+CUST-0093,1/15/23,Electronics,444.08,7,Cash
+CUST-0094,10/28/23,Clothing,378.91,4,Online Payment
+CUST-0095,3/6/23,Electronics,477.47,1,Online Payment
+CUST-0096,12/11/23,Furniture,178.76,5,Cash
+CUST-0097,11/23/23,Furniture,285.33,7,Debit Card
+CUST-0098,1/9/23,Groceries,294.7,6,Online Payment
+CUST-0099,12/10/23,Sports,490.56,5,Credit Card
+CUST-0100,5/9/23,Electronics,56.17,4,Online Payment
