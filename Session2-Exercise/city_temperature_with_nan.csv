@@ -1,0 +1,191 @@
+City,Date,Temperature,Rainfall (mm),Time Zone
+New York,1/1/23,9.196293557,33.34529863,Eastern Time
+New York,1/2/23,3.180465118,56.88867239,Eastern Time
+New York,1/3/23,14.76400268,,Eastern Time
+New York,1/4/23,11.64459599,,Eastern Time
+New York,1/5/23,,40.4334512,Eastern Time
+New York,1/6/23,1.408333323,27.46634362,Eastern Time
+New York,1/7/23,12.71370222,,Eastern Time
+New York,1/8/23,8.00815996,61.46296592,Eastern Time
+New York,1/9/23,10.46578567,31.2423037,Eastern Time
+New York,1/10/23,5.081868904,33.73223358,Eastern Time
+Philadelphia,1/1/23,12.76273849,16.1964723,Eastern Time
+Philadelphia,1/2/23,,32.38885287,Eastern Time
+Philadelphia,1/3/23,-3.483695323,,Eastern Time
+Philadelphia,1/4/23,7.2147299,,Eastern Time
+Philadelphia,1/5/23,,61.59084004,Eastern Time
+Philadelphia,1/6/23,-0.26494373,26.4344949,Eastern Time
+Philadelphia,1/7/23,2.754608091,49.41199633,Eastern Time
+Philadelphia,1/8/23,4.339263702,34.41494883,Eastern Time
+Philadelphia,1/9/23,11.37835096,13.51185208,Eastern Time
+Philadelphia,1/10/23,,40.0409026,Eastern Time
+Jacksonville,1/1/23,-0.767551905,7.412985908,Eastern Time
+Jacksonville,1/2/23,-3.664315523,62.02527492,Eastern Time
+Jacksonville,1/3/23,4.237316632,40.90778525,Eastern Time
+Jacksonville,1/4/23,10.90158665,,Eastern Time
+Jacksonville,1/5/23,1.320935411,39.84681441,Eastern Time
+Jacksonville,1/6/23,10.34675927,,Eastern Time
+Jacksonville,1/7/23,13.03412289,27.21552796,Eastern Time
+Jacksonville,1/8/23,5.406547349,50.65520762,Eastern Time
+Jacksonville,1/9/23,11.52287904,47.12938985,Eastern Time
+Jacksonville,1/10/23,-4.385173854,26.36294222,Eastern Time
+Fort Lauderdale,1/1/23,4.312523301,56.84963287,Eastern Time
+Fort Lauderdale,1/2/23,11.44888188,0.45101375,Eastern Time
+Fort Lauderdale,1/3/23,-3.098642109,59.11204969,Eastern Time
+Fort Lauderdale,1/4/23,12.01452434,55.46491022,Eastern Time
+Fort Lauderdale,1/5/23,8.766425505,36.02665734,Eastern Time
+Fort Lauderdale,1/6/23,,,Eastern Time
+Fort Lauderdale,1/7/23,10.50494801,58.09868582,Eastern Time
+Fort Lauderdale,1/8/23,5.82966411,0.941211576,Eastern Time
+Fort Lauderdale,1/9/23,-2.819344423,50.71130026,Eastern Time
+Fort Lauderdale,1/10/23,8.734880822,12.80063204,Eastern Time
+Austin,1/1/23,12.0134758,1.181554334,Central Time
+Austin,1/2/23,21.09489739,3.009392081,Central Time
+Austin,1/3/23,9.851333125,28.40325269,Central Time
+Austin,1/4/23,11.21937831,17.75653986,Central Time
+Austin,1/5/23,8.530803199,49.98202954,Central Time
+Austin,1/6/23,17.37064718,37.76601757,Central Time
+Austin,1/7/23,28.7529602,32.34932296,Central Time
+Austin,1/8/23,10.74311062,10.50326434,Central Time
+Austin,1/9/23,20.0937088,0.96395396,Central Time
+Austin,1/10/23,27.12679749,2.641846851,Central Time
+Chicago,1/1/23,19.45849138,1.348659317,Central Time
+Chicago,1/2/23,0.58864671,5.505596768,Central Time
+Chicago,1/3/23,18.11831141,,Central Time
+Chicago,1/4/23,8.773639269,15.75181753,Central Time
+Chicago,1/5/23,13.84568449,53.6420564,Central Time
+Chicago,1/6/23,8.340763364,54.43565046,Central Time
+Chicago,1/7/23,16.44361726,4.497504155,Central Time
+Chicago,1/8/23,16.19417952,37.27092269,Central Time
+Chicago,1/9/23,4.92306291,,Central Time
+Chicago,1/10/23,18.9489538,26.95772202,Central Time
+Houston,1/1/23,9.762889978,51.10892257,Central Time
+Houston,1/2/23,9.717150297,57.77806468,Central Time
+Houston,1/3/23,18.24688781,17.37105421,Central Time
+Houston,1/4/23,9.32894766,18.39839911,Central Time
+Houston,1/5/23,,22.02224297,Central Time
+Houston,1/6/23,10.55149724,56.83535718,Central Time
+Houston,1/7/23,10.29743449,4.046734051,Central Time
+Houston,1/8/23,19.48161419,5.486271329,Central Time
+Houston,1/9/23,11.22722201,3.353269151,Central Time
+Houston,1/10/23,18.97197104,27.28779625,Central Time
+San Antonio,1/1/23,4.125686235,57.99970306,Central Time
+San Antonio,1/2/23,0.97653267,6.614811132,Central Time
+San Antonio,1/3/23,14.40523832,48.43338703,Central Time
+San Antonio,1/4/23,15.82280633,48.34618195,Central Time
+San Antonio,1/5/23,10.49390227,49.42094625,Central Time
+San Antonio,1/6/23,14.99040157,,Central Time
+San Antonio,1/7/23,4.713946828,6.899428874,Central Time
+San Antonio,1/8/23,14.41311121,49.89324915,Central Time
+San Antonio,1/9/23,19.71488337,40.8962103,Central Time
+San Antonio,1/10/23,,56.49031794,Central Time
+Dallas,1/1/23,17.62018553,1.405012674,Central Time
+Dallas,1/2/23,12.97673924,22.6256267,Central Time
+Dallas,1/3/23,3.064330178,42.98763568,Central Time
+Dallas,1/4/23,18.50385182,55.65213415,Central Time
+Dallas,1/5/23,16.59798294,36.96147494,Central Time
+Dallas,1/6/23,10.85351333,28.09641963,Central Time
+Dallas,1/7/23,18.92103226,46.44924822,Central Time
+Dallas,1/8/23,5.138283833,27.84735442,Central Time
+Dallas,1/9/23,5.678148403,,Central Time
+Dallas,1/10/23,17.4491924,46.80438762,Central Time
+Denver,1/1/23,-0.287677273,19.68471528,Mountain Time
+Denver,1/2/23,2.351221731,14.31506565,Mountain Time
+Denver,1/3/23,6.754416419,0.979295929,Mountain Time
+Denver,1/4/23,-3.123880538,13.61725683,Mountain Time
+Denver,1/5/23,-4.721387012,18.40850112,Mountain Time
+Denver,1/6/23,6.428146913,27.73136547,Mountain Time
+Denver,1/7/23,-3.914432591,0.413219708,Mountain Time
+Denver,1/8/23,5.663742946,15.11431526,Mountain Time
+Denver,1/9/23,2.614521304,8.796185899,Mountain Time
+Denver,1/10/23,17.04339673,6.388343737,Mountain Time
+Phoenix,1/1/23,8.601195227,30.17558329,Mountain Time
+Phoenix,1/2/23,12.58684848,28.82888557,Mountain Time
+Phoenix,1/3/23,4.020328139,11.14425676,Mountain Time
+Phoenix,1/4/23,9.566791727,11.38051893,Mountain Time
+Phoenix,1/5/23,13.49455724,0.203814724,Mountain Time
+Phoenix,1/6/23,2.192740855,37.59798297,Mountain Time
+Phoenix,1/7/23,12.82292356,1.489324341,Mountain Time
+Phoenix,1/8/23,11.25353891,9.317048929,Mountain Time
+Phoenix,1/9/23,11.7780892,32.10840284,Mountain Time
+Phoenix,1/10/23,,26.97837145,Mountain Time
+El Paso,1/1/23,15.41869119,6.393048662,Mountain Time
+El Paso,1/2/23,1.639331902,31.78819579,Mountain Time
+El Paso,1/3/23,-2.43410411,35.06953554,Mountain Time
+El Paso,1/4/23,5.149618546,5.277835356,Mountain Time
+El Paso,1/5/23,6.761999147,21.95674675,Mountain Time
+El Paso,1/6/23,10.60330029,24.93245548,Mountain Time
+El Paso,1/7/23,,6.783014079,Mountain Time
+El Paso,1/8/23,,14.45820759,Mountain Time
+El Paso,1/9/23,,5.88738944,Mountain Time
+El Paso,1/10/23,16.89698062,4.721636996,Mountain Time
+Albuquerque,1/1/23,,33.20200272,Mountain Time
+Albuquerque,1/2/23,-4.338880897,26.1156186,Mountain Time
+Albuquerque,1/3/23,,,Mountain Time
+Albuquerque,1/4/23,-4.305242503,21.34453175,Mountain Time
+Albuquerque,1/5/23,19.51041727,5.423956011,Mountain Time
+Albuquerque,1/6/23,19.28483643,4.136271685,Mountain Time
+Albuquerque,1/7/23,,13.80231347,Mountain Time
+Albuquerque,1/8/23,-1.332703984,6.42741511,Mountain Time
+Albuquerque,1/9/23,-2.874261204,19.38327656,Mountain Time
+Albuquerque,1/10/23,8.39348838,19.95161665,Mountain Time
+Los Angeles,1/1/23,,45.7269847,Pacific Time
+Los Angeles,1/2/23,5.65876782,38.54858773,Pacific Time
+Los Angeles,1/3/23,9.390872828,32.17719247,Pacific Time
+Los Angeles,1/4/23,18.28167852,,Pacific Time
+Los Angeles,1/5/23,,44.62558383,Pacific Time
+Los Angeles,1/6/23,16.33523829,48.2356321,Pacific Time
+Los Angeles,1/7/23,14.00093981,48.21716525,Pacific Time
+Los Angeles,1/8/23,,30.51301133,Pacific Time
+Los Angeles,1/9/23,21.69729,11.13829476,Pacific Time
+Los Angeles,1/10/23,5.53588455,20.55568112,Pacific Time
+San Francisco,1/1/23,21.03642346,11.56465747,Pacific Time
+San Francisco,1/2/23,21.70857876,24.61337347,Pacific Time
+San Francisco,1/3/23,17.40527896,8.799728274,Pacific Time
+San Francisco,1/4/23,17.26592476,23.20943723,Pacific Time
+San Francisco,1/5/23,20.39097337,21.48124193,Pacific Time
+San Francisco,1/6/23,12.7796813,36.33862853,Pacific Time
+San Francisco,1/7/23,15.55269759,6.632754341,Pacific Time
+San Francisco,1/8/23,20.33436548,12.55314578,Pacific Time
+San Francisco,1/9/23,17.39449492,31.04433009,Pacific Time
+San Francisco,1/10/23,12.17910021,42.99932854,Pacific Time
+San Diego,1/1/23,7.836920891,4.110106278,Pacific Time
+San Diego,1/2/23,10.35714941,47.98173478,Pacific Time
+San Diego,1/3/23,11.5289605,2.125382613,Pacific Time
+San Diego,1/4/23,10.40541923,27.44771347,Pacific Time
+San Diego,1/5/23,23.0500602,8.417117041,Pacific Time
+San Diego,1/6/23,24.50552748,14.08560476,Pacific Time
+San Diego,1/7/23,10.18906903,2.156434144,Pacific Time
+San Diego,1/8/23,21.4680137,0.996290721,Pacific Time
+San Diego,1/9/23,5.558175094,14.4129125,Pacific Time
+San Diego,1/10/23,9.253746066,27.50795146,Pacific Time
+Las Vegas,1/1/23,15.84327328,4.796105752,Pacific Time
+Las Vegas,1/2/23,17.42558819,,Pacific Time
+Las Vegas,1/3/23,8.168493027,40.01441257,Pacific Time
+Las Vegas,1/4/23,24.71199761,41.00136636,Pacific Time
+Las Vegas,1/5/23,17.73028588,28.27230083,Pacific Time
+Las Vegas,1/6/23,20.25889457,43.15603819,Pacific Time
+Las Vegas,1/7/23,23.41383142,0.775226295,Pacific Time
+Las Vegas,1/8/23,5.05001168,37.22103432,Pacific Time
+Las Vegas,1/9/23,18.53173978,40.17083289,Pacific Time
+Las Vegas,1/10/23,12.51202927,3.533599205,Pacific Time
+Anchorage,1/1/23,-8.743490769,,Alaska Time
+Anchorage,1/2/23,,3.509338757,Alaska Time
+Anchorage,1/3/23,-5.078512136,36.93505004,Alaska Time
+Anchorage,1/4/23,1.64959403,75.10870168,Alaska Time
+Anchorage,1/5/23,-6.341563853,54.42175969,Alaska Time
+Anchorage,1/6/23,2.610588471,6.359225706,Alaska Time
+Anchorage,1/7/23,-6.041801,48.83090916,Alaska Time
+Anchorage,1/8/23,-8.054509257,44.24121261,Alaska Time
+Anchorage,1/9/23,-3.236077166,13.01508403,Alaska Time
+Anchorage,1/10/23,0.733050709,39.43779408,Alaska Time
+Honolulu,1/1/23,20.31435942,18.57281814,Hawaii-Aleutian Time
+Honolulu,1/2/23,22.81050919,3.925787081,Hawaii-Aleutian Time
+Honolulu,1/3/23,24.35323938,19.91300673,Hawaii-Aleutian Time
+Honolulu,1/4/23,24.7627655,,Hawaii-Aleutian Time
+Honolulu,1/5/23,26.70949493,13.3865491,Hawaii-Aleutian Time
+Honolulu,1/6/23,21.10929309,4.993640179,Hawaii-Aleutian Time
+Honolulu,1/7/23,23.00033561,0.749052136,Hawaii-Aleutian Time
+Honolulu,1/8/23,26.64207934,22.25770099,Hawaii-Aleutian Time
+Honolulu,1/9/23,22.2869596,26.70125774,Hawaii-Aleutian Time
+Honolulu,1/10/23,28.83212739,,Hawaii-Aleutian Time
